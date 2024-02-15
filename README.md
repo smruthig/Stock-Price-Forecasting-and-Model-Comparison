@@ -1,1 +1,1 @@
-# Stock-Price-Forecasting-and-Model-Comparison
+# Stock_prediction

@@ -1,0 +1,4 @@
+linear {'positive': False} 0.9997907160858851
+ridge {'alpha': 3.0000000000000004, 'positive': False} 0.9997907284712237
+lasso {'alpha': 0.1, 'positive': False, 'selection': 'cyclic', 'tol': 0} 0.9997839569080691
+knn {'algorithm': 'ball_tree', 'n_neighbors': 8, 'weights': 'uniform'} -0.11528979199314845
