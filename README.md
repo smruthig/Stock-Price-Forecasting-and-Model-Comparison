@@ -56,7 +56,7 @@ Original Data for the project:
 
 # Analysis
 
-The linear regression model was simpler, avoided overfitting the seasonal patterns, and handled the fluctuations better than time series models. It had an RMSE of around 160 on the test set while SARIMAX achieved RMSE of 165.
+The linear regression model was simpler, avoided overfitting the seasonal patterns, and handled the fluctuations better than time series models. It had an RMSE of around 1.45 on the test set while SARIMAX achieved a much higher RMSE.
 
 Even after tuning SARIMAX, the regression model was more robust. This indicates that classical regression is well-suited for this type of stock price forecasting problem, where a linear combination of the open, high, low prices and volume provides a good fit.
 
